@@ -111,6 +111,14 @@ A **package manager** helps install, update, and remove software packages on Lin
 ```bash
 sudo apt update
 sudo apt install nginx
+```
 
-RHEL sudo yum install nginx
-ARCH Linux sudo pacman -S nginx
+### RHEL 
+```bash
+sudo yum install nginx
+```
+
+### ARCH Linux 
+```bash
+sudo pacman -S nginx
+```
